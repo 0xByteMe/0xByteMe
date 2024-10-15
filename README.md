@@ -8,7 +8,7 @@ a curious Blockchain Enthusiast and an aspiring Front End Developer. While I'm s
 
 ### 📚I’m currently learning:
 - 🌐 Web Development (HTML, CSS, JavaScript, React)
-- 🛠️ Blockchain ecosystems like **Kommunitas** and **Scroll**
+- 🛠️ Blockchain ecosystems like **Ethereum** and **Solana**
 - 💻 How to build dApps and smart contracts (still getting the hang of it!)
 
 ### 💻My DevSetup
