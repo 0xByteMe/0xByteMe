@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Galih.</h1>
+<h1 align="center">Hi, I'm Galih.👋</h1>
 <h3 align="center">a curious Blockchain Enthusiast and an aspiring Front End Developer. While I'm still learning the ins and outs of coding and exploring the world of Solidity, I’m always eager to improve and discover new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xbyteme&label=Profile%20views&color=0e75b6&style=flat" alt="0xbyteme" /> </p>
@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xbyteme&show_icons=true&locale=en" alt="0xbyteme" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xbyteme&" alt="0xbyteme" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
